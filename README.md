@@ -52,6 +52,7 @@ data/users.json          ← identity snapshot
                 │
                 ▼
       reports/audit_report_YYYYMMDD_HHMMSS.json
+      reports/audit_report_YYYYMMDD_HHMMSS.html
 ```
 
 ---
