@@ -1,0 +1,63 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+pip-wheel-metadata/
+
+# Virtual environments
+venv/
+env/
+.venv/
+ENV/
+
+# Test / coverage
+.pytest_cache/
+.coverage
+coverage.xml
+htmlcov/
+
+# IDEs
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Secrets / env
+.env
+.env.*
+.secrets/
+*.pem
+*.key
+*.crt
+credentials.json
+.aws/
+
+# Generated reports and data (do not commit real exports or reports)
+reports/
+coverage.xml
+
+# Identity snapshots / exports (keep a non-sensitive example instead)
+data/piposhop.json
+data/users.json
+data/*.export.json
+data/pipshop.json.gz
+
+# Agent files and skills lock
+.agents/
+skills-lock.json
+
+# Compressed JSON exports
+*.json.gz
+
+# Logs and misc
+*.log
+*.sqlite3
+*.db
+

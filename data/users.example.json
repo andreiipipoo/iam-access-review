@@ -1,0 +1,15 @@
+[
+  {
+    "id": "usr_example_001",
+    "name": "Example User",
+    "email": "user@example.com",
+    "role": "employee",
+    "department": "Engineering",
+    "account_status": "active",
+    "last_login": "2026-05-04",
+    "mfa_enabled": false,
+    "mfa_required": false,
+    "logins_count": 5,
+    "groups": []
+  }
+]
